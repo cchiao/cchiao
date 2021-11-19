@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-**cchiao/cchiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Christa and I am a data analyst, manager of data teams, and student working for good. I currently live in New York City and a full-time student (part-time worker) at Columbia University's Quantitative Methods in Social Science MA program. You can find an abbreviated cv [here](https://read.cv/christa) but mostly you can find me riding my bike around the Central Park Loop.
+
 
 Here are some ideas to get you started:
 
@@ -13,3 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/heinz-martin/
