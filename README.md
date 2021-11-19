@@ -7,7 +7,7 @@ My name is Christa (she/her) and I am a data analyst and manager of data teams w
 
 🏋️‍♀️ I'm currently working on:
 - getting my Masters degree in Learning Far More Math than I did in undergrad
-- contracting with progressive organizations
+- helping progressive organizations with data infrastructure, analysis, visualization
 - my thesis proposal
 
 
@@ -20,7 +20,7 @@ My name is Christa (she/her) and I am a data analyst and manager of data teams w
 🤔 I'm looking for leads on:
 - projects and positions that will help Democrats win in 2022
 - great biking routes in New York that are public-transportation accessible
-- volunteer work with transportation infrastructure
+- volunteer (or contract!) work with transportation infrastructure
 
 
 
