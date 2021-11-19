@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 
-My name is Christa (she/her) and I am a data analyst and manager of data teams working for Progressive candidates and causes. I currently live in New York City and am a full-time student (part-time worker) at Columbia University's Quantitative Methods in Social Science Masters program. You can find my abbreviated cv [here](https://read.cv/christa) but you'll more likely find me riding my bike around the Central Park Loop.
+My name is Christa (she/her) and I am a data analyst and manager of data teams working for Progressive candidates and causes. I currently live in New York City and am a full-time student at Columbia University's Quantitative Methods in Social Science Masters program and working part time as with [Elevate Strategies LLC](https://elevatestrategiesllc.com/). You can find my abbreviated cv [here](https://read.cv/christa) but you'll _more likely_ find me riding my bike around the Central Park Loop.
 
 
 
