@@ -14,9 +14,10 @@ My name is Christa (she/her) and I am a data analyst and manager of data teams w
 - how to run, analyze, and improve field experiments
 - supervised and unsupervised learning
 - linear regression, classification, and logit models
+- how to play the mandolin (using [MandoLessons](https://www.mandolessons.com/)!)
 
 
-🧠 I'm looking for leads on:
+🚲 I'm looking for leads on:
 - projects and positions that will help Democrats win in 2022
 - great biking routes in New York that are public-transportation accessible
 - volunteer (or contract!) work with transportation infrastructure
