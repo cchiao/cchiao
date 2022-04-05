@@ -1,4 +1,4 @@
-#### Hi there! 👋
+### Hi there! 👋
 
 
 My name is Christa (she/her) and I am a data scientist and manager of data teams working for Progressive candidates and causes. I currently live in New York City and am a full-time student at Columbia University's Quantitative Methods in Social Science Masters program and working part-time in data science roles. You can find my abbreviated cv [here](https://read.cv/christa) but you'll _more likely_ find me riding my bike around Central Park.
