@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi!
 
 
 My name is Christa (she/her) and I am a data scientist and manager of data teams working for Progressive candidates and causes. I currently live in Washington, DC working full-time in a data science role. You can find my abbreviated cv [here](https://read.cv/christa) but you'll _more likely_ find me riding my bike around Rock Creek Park.
