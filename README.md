@@ -5,8 +5,7 @@ My name is Christa (she/her) and I am a data scientist and manager of data teams
 
 
 🏋️‍♀️ I'm currently working on:
-- electing progressive candidates to the Senate!
-- dreaming about post-cycle hobbies
+- analytics contracting
 
 
 🌱 I'm currently learning:
