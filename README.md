@@ -6,16 +6,18 @@ My name is Christa (she/her). You can find my abbreviated cv [here](https://read
 
 🏋️‍♀️ I'm currently:
 - working on an analytics team!
-- committing to doing a triathlon (next year).
+- committing to doing a triathlon (next year) with [DC Tri Club](https://www.dctriclub.org/)
 
 
 🌱 I'm currently learning:
 - how to play the mandolin (using [MandoLessons](https://www.mandolessons.com/)!)
-- how to meal prep?
+- about the Amtrak credit card options.
+- from the very best on data science, surveys, and programmatic application
 
 
 🚲 I'm looking for leads on:
 - your favorite bike routes in Washington D.C.
+  
 
 
 ☎️ Contact: You can find me at first name dot last name at gmail
