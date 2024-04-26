@@ -11,7 +11,7 @@ My name is Christa (she/her). You can find my abbreviated cv [here](https://read
 
 🌱 I'm currently learning:
 - how to play the mandolin (using [MandoLessons](https://www.mandolessons.com/)!)
-- about the Amtrak credit card options.
+- about Amtrak credit card options.
 - from the very best on data science, surveys, and programmatic application
 
 
